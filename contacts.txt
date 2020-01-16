@@ -1,0 +1,3 @@
+<p style="font-family:'Palatino Linotype'; text-align: center;">Office Hour : 9:00 - 14:00 Mon - Wed</p>
+<p style="font-family:'Palatino Linotype'; text-align: center;">Email : JXH9559@163.com</p>
+<p style="font-family:'Palatino Linotype'; text-align: center;">Text but never call me : 650-334-XXXX</p>
